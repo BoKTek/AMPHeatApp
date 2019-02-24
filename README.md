@@ -1,4 +1,4 @@
-## AMPHeatApp
+## AMPHeatDevice
 PIC32 demo using the harmony framework with a Mikroelektronika mikromedia+ board.
 
 
