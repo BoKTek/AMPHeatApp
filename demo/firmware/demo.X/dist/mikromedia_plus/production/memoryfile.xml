@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/mikromedia_plus/production/demo.X.production.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>531968</length>                 
+      <used>288680</used>                     
+      <free>243288</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>131072</length>                 
+      <used>17068</used>                     
+      <free>114004</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
