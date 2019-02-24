@@ -25,8 +25,8 @@ http://ww1.microchip.com/downloads/en/DeviceDoc/MPLAB%20Harmony%20Tutorial%20-%2
 
 Clone this github repository recursively such that submodules get checked out.
 
-  * git clone --recursive https://github.com/BoKTek/mikromedia-plus-PIC32MX795F512L
-  * open the projects in demo/firmware/ folders with MPLAB X
+  * git clone --recursive https://github.com/BoKTek/AMPHeatDevice.git
+  * open the projects in demo/firmware/ folders with MPLAB X Ide
   * You can also clone from MPLAB X directly, copy above link and in MPLAB X goto 'Team -> Git -> Clone' and pasta the link into
     Repository URL.
   * Generate the Harmony configurator code, this is rather tricky if you are new to harmony/mplab X. 
