@@ -1,4 +1,4 @@
-## unabto-pic32-harmony mikromedia+ PIC32MX795F512L
+## AMPHeatApp
 PIC32 demo using the harmony framework with a Mikroelektronika mikromedia+ board.
 
 
