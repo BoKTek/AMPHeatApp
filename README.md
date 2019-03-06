@@ -35,7 +35,7 @@ Clone this github repository recursively such that submodules get checked out.
     give the folder where you installed harmony, if unsure run the harmony installer again.
     Now open the \\\demo\firmware\src\system_config\mikromedia_plus.mhc configuration file and click on the code generation button.
     The harmony step fails easily because of the complexity and if any component in the system has been updated.
-  * Connect the mikromedia board to the ICD3 of 4 programmer.
+  * Connect the mikromedia board to the ICD3 or ICD4 programmer.
   * compile with XC32 version 2.15
   * flash target
   
